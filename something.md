@@ -1,1 +1,1 @@
-Git cheat sheet
+Git cheat sheet edited version
